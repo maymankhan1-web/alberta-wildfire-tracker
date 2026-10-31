@@ -1,0 +1,20 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Alberta Wildfire Hotspot Tracker</title><style>body{font-family:system-ui,sans-serif;background:#0b1020;color:#e6e9f2;max-width:900px;margin:auto;padding:20px}
+.big{font-size:2.6em;font-weight:700;color:#6ee7b7}.card{background:#151b33;border-radius:12px;padding:16px;margin:12px 0}canvas{width:100%;height:300px}
+small,a{color:#9aa4c7}.btn{display:inline-block;background:#db2777;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none}</style></head><body>
+<h1>Alberta Wildfire Hotspot Tracker</h1><div class="card"><div class="big" id="cur">…</div><div id="meta"></div></div>
+<div class="card"><canvas id="c" width="860" height="300"></canvas><div id="stats"></div></div>
+<p><a class="btn" href="https://github.com/sponsors/maymankhan1-web">♥ Sponsor this project</a></p>
+<p><small>Data: Canadian Wildland Fire Information System (CWFIS), Natural Resources Canada, cwfis.cfs.nrcan.gc.ca. Refreshed by GitHub Actions. Not affiliated with or endorsed by the data provider.</small></p>
+<script>const c=document.getElementById('c'),g=c.getContext('2d');function line(v,a,b){if(!v.length)return;const W=c.width,H=c.height,mx=Math.max(...v),mn=Math.min(...v);
+g.strokeStyle='#334';g.fillStyle='#9aa4c7';g.font='12px sans-serif';
+for(let i=0;i<=4;i++){const y=H-20-(H-30)*i/4;g.beginPath();g.moveTo(40,y);g.lineTo(W,y);g.stroke();g.fillText((mn+(mx-mn)*i/4).toFixed(1),2,y+4)}
+g.strokeStyle='#6ee7b7';g.lineWidth=2;g.beginPath();v.forEach((x,i)=>{const X=40+(W-45)*i/Math.max(1,v.length-1),Y=H-20-(H-30)*(x-mn)/((mx-mn)||1);i?g.lineTo(X,Y):g.moveTo(X,Y)});g.stroke();
+g.fillText(a,40,H-4);g.fillText(b,W-150,H-4);
+document.getElementById('stats').textContent='Min '+mn+' · Max '+mx+' · Points '+v.length;}
+fetch('data/latest.json?'+Date.now()).then(r=>r.json()).then(d=>{const h=d.hotspots;document.getElementById('cur').textContent=d.count+' hotspots';
+document.getElementById('meta').textContent='Last 24 hours in Alberta. Updated '+d.updated;
+const W=c.width,H=c.height;g.strokeStyle='#445';g.strokeRect(40,10,W-50,H-30);g.fillStyle='#9aa4c7';g.font='12px sans-serif';
+g.fillText('49N',2,H-20);g.fillText('60N',2,18);g.fillText('120W',40,H-4);g.fillText('110W',W-40,H-4);
+g.fillStyle='#f97316';h.forEach(p=>{const x=40+(W-50)*(p.lon+120)/10,y=10+(H-30)*(60-p.lat)/11;g.beginPath();g.arc(x,y,3,0,7);g.fill()});
+document.getElementById('stats').textContent='Map of hotspot locations (approximate Alberta bounds).';});</script></body></html>
