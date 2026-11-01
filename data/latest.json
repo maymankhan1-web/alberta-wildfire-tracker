@@ -1,68 +1,8 @@
 {
- "updated": "2026-11-01T09:50:01+00:00",
+ "updated": "2026-11-01T10:45:15+00:00",
  "source": "CWFIS, Natural Resources Canada",
- "count": 29,
+ "count": 23,
  "hotspots": [
-  {
-   "lat": 56.17827,
-   "lon": -118.28133,
-   "rep_date": "2026-10-31T09:58:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-20",
-   "frp": 10.86,
-   "fwi": 2.72,
-   "hfi": 176
-  },
-  {
-   "lat": 56.18177,
-   "lon": -118.28002,
-   "rep_date": "2026-10-31T09:58:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-20",
-   "frp": 9.52,
-   "fwi": 2.72,
-   "hfi": 176
-  },
-  {
-   "lat": 56.18261,
-   "lon": -118.2871,
-   "rep_date": "2026-10-31T09:58:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-20",
-   "frp": 2.82,
-   "fwi": 2.72,
-   "hfi": 71
-  },
-  {
-   "lat": 58.40726,
-   "lon": -116.95207,
-   "rep_date": "2026-10-31T09:58:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-20",
-   "frp": 16.89,
-   "fwi": 5.34,
-   "hfi": 224
-  },
-  {
-   "lat": 55.84943,
-   "lon": -113.57552,
-   "rep_date": "2026-10-31T09:58:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-20",
-   "frp": 2.68,
-   "fwi": 0.23,
-   "hfi": 0
-  },
-  {
-   "lat": 56.17911,
-   "lon": -118.28841,
-   "rep_date": "2026-10-31T09:58:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-20",
-   "frp": 6.69,
-   "fwi": 2.72,
-   "hfi": 176
-  },
   {
    "lat": 56.183,
    "lon": -118.28461,
