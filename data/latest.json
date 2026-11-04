@@ -1,78 +1,8 @@
 {
- "updated": "2026-11-04T16:59:24+00:00",
+ "updated": "2026-11-04T17:56:46+00:00",
  "source": "CWFIS, Natural Resources Canada",
- "count": 284,
+ "count": 277,
  "hotspots": [
-  {
-   "lat": 57.82037,
-   "lon": -117.58502,
-   "rep_date": "2026-11-03T17:28:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 16.07,
-   "fwi": 7.52,
-   "hfi": 1032
-  },
-  {
-   "lat": 57.82676,
-   "lon": -117.57522,
-   "rep_date": "2026-11-03T17:28:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 27.1,
-   "fwi": 7.52,
-   "hfi": 1094
-  },
-  {
-   "lat": 58.53673,
-   "lon": -116.07267,
-   "rep_date": "2026-11-03T17:28:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 23.98,
-   "fwi": 6.1,
-   "hfi": 1284
-  },
-  {
-   "lat": 58.50475,
-   "lon": -115.84403,
-   "rep_date": "2026-11-03T17:28:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 13.37,
-   "fwi": 0,
-   "hfi": 0
-  },
-  {
-   "lat": 55.25666,
-   "lon": -115.34413,
-   "rep_date": "2026-11-03T17:28:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 43.06,
-   "fwi": 0.81,
-   "hfi": 247
-  },
-  {
-   "lat": 57.9062,
-   "lon": -117.75497,
-   "rep_date": "2026-11-03T17:28:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 9.19,
-   "fwi": 7.37,
-   "hfi": 471
-  },
-  {
-   "lat": 55.26656,
-   "lon": -115.33788,
-   "rep_date": "2026-11-03T17:28:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 45.24,
-   "fwi": 0.81,
-   "hfi": 21
-  },
   {
    "lat": 58.532307,
    "lon": -116.05769,
