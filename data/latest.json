@@ -1,18 +1,8 @@
 {
- "updated": "2026-11-05T11:09:56+00:00",
+ "updated": "2026-11-05T12:00:05+00:00",
  "source": "CWFIS, Natural Resources Canada",
- "count": 156,
+ "count": 155,
  "hotspots": [
-  {
-   "lat": 55.66072,
-   "lon": -116.37807,
-   "rep_date": "2026-11-04T11:40:00Z",
-   "sensor": "MODIS",
-   "satellite": "Aqua",
-   "frp": 80.01,
-   "fwi": 0,
-   "hfi": 0
-  },
   {
    "lat": 58.51945,
    "lon": -116.22253,
