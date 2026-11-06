@@ -1,78 +1,8 @@
 {
- "updated": "2026-11-06T16:56:53+00:00",
+ "updated": "2026-11-06T17:53:05+00:00",
  "source": "CWFIS, Natural Resources Canada",
- "count": 199,
+ "count": 192,
  "hotspots": [
-  {
-   "lat": 58.57948,
-   "lon": -116.13805,
-   "rep_date": "2026-11-05T17:09:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 43.48,
-   "fwi": 0,
-   "hfi": 0
-  },
-  {
-   "lat": 58.58178,
-   "lon": -116.1545,
-   "rep_date": "2026-11-05T17:09:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 9.82,
-   "fwi": 0,
-   "hfi": 0
-  },
-  {
-   "lat": 56.38037,
-   "lon": -116.95,
-   "rep_date": "2026-11-05T17:09:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 9.01,
-   "fwi": 0,
-   "hfi": 0
-  },
-  {
-   "lat": 58.55054,
-   "lon": -116.88251,
-   "rep_date": "2026-11-05T17:09:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 11.17,
-   "fwi": 0,
-   "hfi": 0
-  },
-  {
-   "lat": 58.49157,
-   "lon": -116.04853,
-   "rep_date": "2026-11-05T17:09:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 10.29,
-   "fwi": 0,
-   "hfi": 0
-  },
-  {
-   "lat": 54.276352,
-   "lon": -110.551544,
-   "rep_date": "2026-11-05T17:40:40Z",
-   "sensor": "SLSTR",
-   "satellite": "S3B",
-   "frp": 17.48446,
-   "fwi": 0,
-   "hfi": 0
-  },
-  {
-   "lat": 54.284664,
-   "lon": -110.56845,
-   "rep_date": "2026-11-05T17:40:40Z",
-   "sensor": "SLSTR",
-   "satellite": "S3B",
-   "frp": 1.215328,
-   "fwi": 0,
-   "hfi": 0
-  },
   {
    "lat": 58.570305,
    "lon": -116.11494,
