@@ -1,218 +1,8 @@
 {
- "updated": "2026-11-07T17:41:20+00:00",
+ "updated": "2026-11-07T18:50:09+00:00",
  "source": "CWFIS, Natural Resources Canada",
- "count": 141,
+ "count": 125,
  "hotspots": [
-  {
-   "lat": 57.37983,
-   "lon": -117.17639,
-   "rep_date": "2026-11-06T17:47:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 59.12,
-   "fwi": 0,
-   "hfi": 0
-  },
-  {
-   "lat": 57.75625,
-   "lon": -116.76767,
-   "rep_date": "2026-11-06T17:47:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 21.7,
-   "fwi": 11.6,
-   "hfi": 2077
-  },
-  {
-   "lat": 58.53685,
-   "lon": -116.23629,
-   "rep_date": "2026-11-06T17:47:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 24.51,
-   "fwi": 9.49,
-   "hfi": 1678
-  },
-  {
-   "lat": 57.75069,
-   "lon": -116.74271,
-   "rep_date": "2026-11-06T17:47:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 17.95,
-   "fwi": 11.5,
-   "hfi": 2066
-  },
-  {
-   "lat": 58.567413,
-   "lon": -116.12459,
-   "rep_date": "2026-11-06T17:52:25Z",
-   "sensor": "SLSTR",
-   "satellite": "S3A",
-   "frp": 26.213194,
-   "fwi": 9.44,
-   "hfi": 2570
-  },
-  {
-   "lat": 58.530514,
-   "lon": -116.24302,
-   "rep_date": "2026-11-06T17:52:27Z",
-   "sensor": "SLSTR",
-   "satellite": "S3A",
-   "frp": 25.981897,
-   "fwi": 9.49,
-   "hfi": 1626
-  },
-  {
-   "lat": 58.54515,
-   "lon": -116.251816,
-   "rep_date": "2026-11-06T17:52:27Z",
-   "sensor": "SLSTR",
-   "satellite": "S3A",
-   "frp": 12.782672,
-   "fwi": 9.49,
-   "hfi": 363
-  },
-  {
-   "lat": 58.543224,
-   "lon": -116.26677,
-   "rep_date": "2026-11-06T17:52:27Z",
-   "sensor": "SLSTR",
-   "satellite": "S3A",
-   "frp": 4.193751,
-   "fwi": 9.49,
-   "hfi": 363
-  },
-  {
-   "lat": 58.53246,
-   "lon": -116.22811,
-   "rep_date": "2026-11-06T17:52:27Z",
-   "sensor": "SLSTR",
-   "satellite": "S3A",
-   "frp": 24.688782,
-   "fwi": 9.56,
-   "hfi": 1828
-  },
-  {
-   "lat": 57.759674,
-   "lon": -116.75176,
-   "rep_date": "2026-11-06T17:52:42Z",
-   "sensor": "SLSTR",
-   "satellite": "S3A",
-   "frp": 26.745872,
-   "fwi": 11.6,
-   "hfi": 1845
-  },
-  {
-   "lat": 57.37632,
-   "lon": -117.17622,
-   "rep_date": "2026-11-06T18:40:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-21",
-   "frp": 19.27,
-   "fwi": 7,
-   "hfi": 1900
-  },
-  {
-   "lat": 57.37623,
-   "lon": -117.16431,
-   "rep_date": "2026-11-06T18:40:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-21",
-   "frp": 61.19,
-   "fwi": 7,
-   "hfi": 1387
-  },
-  {
-   "lat": 57.75639,
-   "lon": -116.76364,
-   "rep_date": "2026-11-06T18:40:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-21",
-   "frp": 10.98,
-   "fwi": 11.6,
-   "hfi": 2050
-  },
-  {
-   "lat": 58.55182,
-   "lon": -118.40242,
-   "rep_date": "2026-11-06T18:40:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-21",
-   "frp": 11.73,
-   "fwi": 7.25,
-   "hfi": 0
-  },
-  {
-   "lat": 55.24778,
-   "lon": -116.24803,
-   "rep_date": "2026-11-06T18:40:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-21",
-   "frp": 14.19,
-   "fwi": 6.31,
-   "hfi": 0
-  },
-  {
-   "lat": 55.25191,
-   "lon": -116.24758,
-   "rep_date": "2026-11-06T18:40:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-21",
-   "frp": 13.35,
-   "fwi": 6.31,
-   "hfi": 0
-  },
-  {
-   "lat": 57.37299,
-   "lon": -117.172,
-   "rep_date": "2026-11-06T18:40:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-21",
-   "frp": 28.19,
-   "fwi": 7,
-   "hfi": 1900
-  },
-  {
-   "lat": 57.37953,
-   "lon": -117.16846,
-   "rep_date": "2026-11-06T18:40:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-21",
-   "frp": 19.27,
-   "fwi": 7,
-   "hfi": 383
-  },
-  {
-   "lat": 57.75135,
-   "lon": -116.75656,
-   "rep_date": "2026-11-06T18:40:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-21",
-   "frp": 10.98,
-   "fwi": 11.6,
-   "hfi": 2095
-  },
-  {
-   "lat": 58.55682,
-   "lon": -118.40997,
-   "rep_date": "2026-11-06T18:40:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-21",
-   "frp": 11.73,
-   "fwi": 7.25,
-   "hfi": 0
-  },
-  {
-   "lat": 58.53632,
-   "lon": -116.23877,
-   "rep_date": "2026-11-06T18:40:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-21",
-   "frp": 14.24,
-   "fwi": 9.49,
-   "hfi": 1678
-  },
   {
    "lat": 58.53417,
    "lon": -116.19965,
@@ -1144,44 +934,14 @@
    "hfi": 4973
   },
   {
-   "lat": 49.82847,
-   "lon": -113.55098,
-   "rep_date": "2026-11-07T08:32:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-21",
-   "frp": 12.98,
-   "fwi": 10.2,
-   "hfi": 85
-  },
-  {
-   "lat": 49.82845,
-   "lon": -113.54358,
-   "rep_date": "2026-11-07T08:32:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-21",
-   "frp": 8.03,
-   "fwi": 10.2,
-   "hfi": 85
-  },
-  {
-   "lat": 49.83023,
-   "lon": -113.55424,
-   "rep_date": "2026-11-07T08:32:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-21",
-   "frp": 11.12,
-   "fwi": 10.2,
-   "hfi": 85
-  },
-  {
    "lat": 49.83018,
    "lon": -113.5469,
    "rep_date": "2026-11-07T08:32:00Z",
    "sensor": "VIIRS-I",
    "satellite": "NOAA-21",
    "frp": 11.12,
-   "fwi": 10.2,
-   "hfi": 85
+   "fwi": 9.82,
+   "hfi": 79
   },
   {
    "lat": 49.83012,
@@ -1190,13 +950,73 @@
    "sensor": "VIIRS-I",
    "satellite": "NOAA-21",
    "frp": 3.9,
-   "fwi": 10.2,
-   "hfi": 85
+   "fwi": 9.82,
+   "hfi": 79
   },
   {
-   "lat": 54.01617,
-   "lon": -117.72926,
-   "rep_date": "2026-11-07T09:27:00Z",
+   "lat": 49.82847,
+   "lon": -113.55098,
+   "rep_date": "2026-11-07T08:32:00Z",
+   "sensor": "VIIRS-I",
+   "satellite": "NOAA-21",
+   "frp": 12.98,
+   "fwi": 9.82,
+   "hfi": 79
+  },
+  {
+   "lat": 49.82845,
+   "lon": -113.54358,
+   "rep_date": "2026-11-07T08:32:00Z",
+   "sensor": "VIIRS-I",
+   "satellite": "NOAA-21",
+   "frp": 8.03,
+   "fwi": 9.82,
+   "hfi": 79
+  },
+  {
+   "lat": 49.83023,
+   "lon": -113.55424,
+   "rep_date": "2026-11-07T08:32:00Z",
+   "sensor": "VIIRS-I",
+   "satellite": "NOAA-21",
+   "frp": 11.12,
+   "fwi": 9.82,
+   "hfi": 79
+  },
+  {
+   "lat": 49.83242,
+   "lon": -113.54043,
+   "rep_date": "2026-11-07T09:28:00Z",
+   "sensor": "VIIRS-I",
+   "satellite": "NOAA-20",
+   "frp": 13.23,
+   "fwi": 9.82,
+   "hfi": 79
+  },
+  {
+   "lat": 49.83029,
+   "lon": -113.55428,
+   "rep_date": "2026-11-07T09:28:00Z",
+   "sensor": "VIIRS-I",
+   "satellite": "NOAA-20",
+   "frp": 87.04,
+   "fwi": 9.82,
+   "hfi": 79
+  },
+  {
+   "lat": 54.01871,
+   "lon": -117.72834,
+   "rep_date": "2026-11-07T09:28:00Z",
+   "sensor": "VIIRS-I",
+   "satellite": "NOAA-20",
+   "frp": 0.94,
+   "fwi": 0,
+   "hfi": 0
+  },
+  {
+   "lat": 54.01578,
+   "lon": -117.73061,
+   "rep_date": "2026-11-07T09:28:00Z",
    "sensor": "VIIRS-I",
    "satellite": "NOAA-20",
    "frp": 0.76,
@@ -1204,49 +1024,9 @@
    "hfi": 0
   },
   {
-   "lat": 54.01909,
-   "lon": -117.72701,
-   "rep_date": "2026-11-07T09:27:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-20",
-   "frp": 0.93,
-   "fwi": 0,
-   "hfi": 0
-  },
-  {
-   "lat": 49.83278,
-   "lon": -113.53958,
-   "rep_date": "2026-11-07T09:28:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-20",
-   "frp": 13.23,
-   "fwi": 10.2,
-   "hfi": 85
-  },
-  {
-   "lat": 49.83065,
-   "lon": -113.55345,
-   "rep_date": "2026-11-07T09:28:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-20",
-   "frp": 87.03,
-   "fwi": 10.2,
-   "hfi": 85
-  },
-  {
-   "lat": 51.13503,
-   "lon": -114.58069,
-   "rep_date": "2026-11-07T10:11:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-21",
-   "frp": 12.43,
-   "fwi": 8.59,
-   "hfi": 613
-  },
-  {
    "lat": 54.01786,
    "lon": -117.73002,
-   "rep_date": "2026-11-07T10:11:00Z",
+   "rep_date": "2026-11-07T10:10:00Z",
    "sensor": "VIIRS-I",
    "satellite": "NOAA-21",
    "frp": 0.6,
@@ -1256,7 +1036,7 @@
   {
    "lat": 53.9413,
    "lon": -117.21201,
-   "rep_date": "2026-11-07T10:11:00Z",
+   "rep_date": "2026-11-07T10:10:00Z",
    "sensor": "VIIRS-I",
    "satellite": "NOAA-21",
    "frp": 1.29,
@@ -1264,79 +1044,119 @@
    "hfi": 0
   },
   {
-   "lat": 49.83107,
-   "lon": -113.54206,
-   "rep_date": "2026-11-07T10:12:00Z",
+   "lat": 49.82966,
+   "lon": -113.55447,
+   "rep_date": "2026-11-07T10:13:00Z",
    "sensor": "VIIRS-I",
    "satellite": "NOAA-21",
-   "frp": 12.28,
-   "fwi": 10.2,
-   "hfi": 85
+   "frp": 25.34,
+   "fwi": 9.82,
+   "hfi": 79
   },
   {
    "lat": 49.82846,
    "lon": -113.54929,
-   "rep_date": "2026-11-07T10:12:00Z",
+   "rep_date": "2026-11-07T10:13:00Z",
    "sensor": "VIIRS-I",
    "satellite": "NOAA-21",
    "frp": 70.65,
-   "fwi": 10.2,
-   "hfi": 85
+   "fwi": 9.82,
+   "hfi": 79
   },
   {
-   "lat": 49.82966,
-   "lon": -113.55447,
-   "rep_date": "2026-11-07T10:12:00Z",
+   "lat": 51.13503,
+   "lon": -114.58069,
+   "rep_date": "2026-11-07T10:13:00Z",
    "sensor": "VIIRS-I",
    "satellite": "NOAA-21",
-   "frp": 25.33,
-   "fwi": 10.2,
-   "hfi": 85
+   "frp": 12.44,
+   "fwi": 8.6,
+   "hfi": 617
   },
   {
-   "lat": 53.59687,
-   "lon": -116.59695,
-   "rep_date": "2026-11-07T11:07:00Z",
+   "lat": 49.83107,
+   "lon": -113.54206,
+   "rep_date": "2026-11-07T10:13:00Z",
+   "sensor": "VIIRS-I",
+   "satellite": "NOAA-21",
+   "frp": 12.28,
+   "fwi": 9.82,
+   "hfi": 79
+  },
+  {
+   "lat": 57.91238,
+   "lon": -117.74903,
+   "rep_date": "2026-11-07T11:06:00Z",
    "sensor": "VIIRS-I",
    "satellite": "NOAA-20",
-   "frp": 0.37,
+   "frp": 1.19,
+   "fwi": 7.83,
+   "hfi": 520
+  },
+  {
+   "lat": 55.11324,
+   "lon": -119.27702,
+   "rep_date": "2026-11-07T11:08:00Z",
+   "sensor": "VIIRS-I",
+   "satellite": "NOAA-20",
+   "frp": 3.91,
    "fwi": 0,
    "hfi": 0
   },
   {
-   "lat": 53.94374,
-   "lon": -117.21236,
-   "rep_date": "2026-11-07T11:07:00Z",
+   "lat": 54.36501,
+   "lon": -113.65173,
+   "rep_date": "2026-11-07T11:08:00Z",
    "sensor": "VIIRS-I",
    "satellite": "NOAA-20",
-   "frp": 0.59,
+   "frp": 0.48,
    "fwi": 0,
    "hfi": 0
   },
   {
-   "lat": 54.01796,
-   "lon": -117.73018,
-   "rep_date": "2026-11-07T11:07:00Z",
+   "lat": 49.82934,
+   "lon": -113.55878,
+   "rep_date": "2026-11-07T11:08:00Z",
    "sensor": "VIIRS-I",
    "satellite": "NOAA-20",
-   "frp": 1.36,
-   "fwi": 0,
+   "frp": 11.89,
+   "fwi": 9.63,
    "hfi": 0
   },
   {
-   "lat": 54.3648,
-   "lon": -113.64945,
-   "rep_date": "2026-11-07T11:07:00Z",
+   "lat": 49.82652,
+   "lon": -113.55115,
+   "rep_date": "2026-11-07T11:08:00Z",
    "sensor": "VIIRS-I",
    "satellite": "NOAA-20",
-   "frp": 0.47,
-   "fwi": 0,
-   "hfi": 0
+   "frp": 11.89,
+   "fwi": 9.82,
+   "hfi": 79
   },
   {
-   "lat": 55.11017,
-   "lon": -119.27658,
-   "rep_date": "2026-11-07T11:07:00Z",
+   "lat": 49.83225,
+   "lon": -113.5461,
+   "rep_date": "2026-11-07T11:08:00Z",
+   "sensor": "VIIRS-I",
+   "satellite": "NOAA-20",
+   "frp": 11.89,
+   "fwi": 9.82,
+   "hfi": 109
+  },
+  {
+   "lat": 49.83508,
+   "lon": -113.55376,
+   "rep_date": "2026-11-07T11:08:00Z",
+   "sensor": "VIIRS-I",
+   "satellite": "NOAA-20",
+   "frp": 11.89,
+   "fwi": 9.82,
+   "hfi": 79
+  },
+  {
+   "lat": 55.11007,
+   "lon": -119.27811,
+   "rep_date": "2026-11-07T11:08:00Z",
    "sensor": "VIIRS-I",
    "satellite": "NOAA-20",
    "frp": 2.45,
@@ -1344,74 +1164,94 @@
    "hfi": 0
   },
   {
-   "lat": 55.11333,
-   "lon": -119.27551,
-   "rep_date": "2026-11-07T11:07:00Z",
+   "lat": 53.94376,
+   "lon": -117.21417,
+   "rep_date": "2026-11-07T11:08:00Z",
    "sensor": "VIIRS-I",
    "satellite": "NOAA-20",
-   "frp": 3.9,
+   "frp": 0.59,
    "fwi": 0,
    "hfi": 0
   },
   {
-   "lat": 49.82603,
-   "lon": -113.54819,
+   "lat": 54.01797,
+   "lon": -117.73201,
    "rep_date": "2026-11-07T11:08:00Z",
    "sensor": "VIIRS-I",
    "satellite": "NOAA-20",
-   "frp": 11.88,
-   "fwi": 10.19,
-   "hfi": 624
+   "frp": 1.36,
+   "fwi": 0,
+   "hfi": 0
   },
   {
-   "lat": 49.83178,
-   "lon": -113.54321,
-   "rep_date": "2026-11-07T11:08:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-20",
-   "frp": 11.88,
-   "fwi": 10.2,
-   "hfi": 85
-  },
-  {
-   "lat": 49.83458,
-   "lon": -113.55079,
-   "rep_date": "2026-11-07T11:08:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-20",
-   "frp": 11.88,
-   "fwi": 10.2,
-   "hfi": 85
-  },
-  {
-   "lat": 49.82885,
-   "lon": -113.55585,
-   "rep_date": "2026-11-07T11:08:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-20",
-   "frp": 11.88,
-   "fwi": 10.2,
-   "hfi": 85
-  },
-  {
-   "lat": 51.13386,
-   "lon": -114.57896,
-   "rep_date": "2026-11-07T11:08:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-20",
-   "frp": 4.75,
-   "fwi": 8.59,
-   "hfi": 613
-  },
-  {
-   "lat": 51.13725,
-   "lon": -114.57726,
+   "lat": 51.13757,
+   "lon": -114.57984,
    "rep_date": "2026-11-07T11:08:00Z",
    "sensor": "VIIRS-I",
    "satellite": "NOAA-20",
    "frp": 4.47,
-   "fwi": 8.59,
-   "hfi": 613
+   "fwi": 8.63,
+   "hfi": 149
+  },
+  {
+   "lat": 51.13418,
+   "lon": -114.58152,
+   "rep_date": "2026-11-07T11:08:00Z",
+   "sensor": "VIIRS-I",
+   "satellite": "NOAA-20",
+   "frp": 4.75,
+   "fwi": 8.6,
+   "hfi": 617
+  },
+  {
+   "lat": 53.59693,
+   "lon": -116.59888,
+   "rep_date": "2026-11-07T11:08:00Z",
+   "sensor": "VIIRS-I",
+   "satellite": "NOAA-20",
+   "frp": 0.38,
+   "fwi": 0,
+   "hfi": 0
+  },
+  {
+   "lat": 55.11134,
+   "lon": -119.27121,
+   "rep_date": "2026-11-07T11:49:00Z",
+   "sensor": "VIIRS-I",
+   "satellite": "NOAA-21",
+   "frp": 1.22,
+   "fwi": 0,
+   "hfi": 0
+  },
+  {
+   "lat": 49.83263,
+   "lon": -113.53262,
+   "rep_date": "2026-11-07T11:57:00Z",
+   "sensor": "MODIS",
+   "satellite": "Aqua",
+   "frp": 8.33,
+   "fwi": 9.82,
+   "hfi": 79
+  },
+  {
+   "lat": 49.83454,
+   "lon": -113.54624,
+   "rep_date": "2026-11-07T11:57:00Z",
+   "sensor": "MODIS",
+   "satellite": "Aqua",
+   "frp": 65.95,
+   "fwi": 9.82,
+   "hfi": 109
+  },
+  {
+   "lat": 56.37648,
+   "lon": -116.96055,
+   "rep_date": "2026-11-07T16:49:00Z",
+   "sensor": "MODIS",
+   "satellite": "Terra",
+   "frp": 12.25,
+   "fwi": 0,
+   "hfi": 0
   }
  ]
 }
