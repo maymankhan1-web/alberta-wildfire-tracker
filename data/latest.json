@@ -1,38 +1,8 @@
 {
- "updated": "2026-11-10T02:55:17+00:00",
+ "updated": "2026-11-10T03:55:49+00:00",
  "source": "CWFIS, Natural Resources Canada",
- "count": 133,
+ "count": 130,
  "hotspots": [
-  {
-   "lat": 54.40712,
-   "lon": -113.83154,
-   "rep_date": "2026-11-09T03:02:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 21.63,
-   "fwi": 10.5,
-   "hfi": 1571
-  },
-  {
-   "lat": 54.82865,
-   "lon": -117.48777,
-   "rep_date": "2026-11-09T03:02:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 20.56,
-   "fwi": 0,
-   "hfi": 0
-  },
-  {
-   "lat": 55.54498,
-   "lon": -116.71936,
-   "rep_date": "2026-11-09T03:02:00Z",
-   "sensor": "MODIS",
-   "satellite": "Terra",
-   "frp": 23.43,
-   "fwi": 0,
-   "hfi": 0
-  },
   {
    "lat": 55.53752,
    "lon": -116.7264,
