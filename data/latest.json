@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T05:26:07+00:00",
+ "updated": "2026-11-23T07:41:25+00:00",
  "source": "CWFIS, Natural Resources Canada",
- "count": 13,
+ "count": 16,
  "hotspots": [
   {
    "lat": 55.8057,
@@ -44,6 +44,16 @@
    "hfi": 0
   },
   {
+   "lat": 53.83117,
+   "lon": -115.39348,
+   "rep_date": "2026-11-22T20:21:00Z",
+   "sensor": "VIIRS-I",
+   "satellite": "NOAA-21",
+   "frp": 14.82,
+   "fwi": 3.2,
+   "hfi": 288
+  },
+  {
    "lat": 57.97523,
    "lon": -116.75787,
    "rep_date": "2026-11-22T20:21:00Z",
@@ -62,16 +72,6 @@
    "frp": 2.45,
    "fwi": 3.2,
    "hfi": 144
-  },
-  {
-   "lat": 53.83117,
-   "lon": -115.39348,
-   "rep_date": "2026-11-22T20:21:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-21",
-   "frp": 14.82,
-   "fwi": 3.2,
-   "hfi": 288
   },
   {
    "lat": 53.8303,
@@ -94,16 +94,6 @@
    "hfi": 0
   },
   {
-   "lat": 53.65016,
-   "lon": -113.98189,
-   "rep_date": "2026-11-22T21:16:00Z",
-   "sensor": "VIIRS-I",
-   "satellite": "NOAA-20",
-   "frp": 4.49,
-   "fwi": 3.2,
-   "hfi": 96
-  },
-  {
    "lat": 53.82802,
    "lon": -115.39754,
    "rep_date": "2026-11-22T21:16:00Z",
@@ -112,6 +102,16 @@
    "frp": 17.87,
    "fwi": 3.2,
    "hfi": 295
+  },
+  {
+   "lat": 53.6507,
+   "lon": -113.98018,
+   "rep_date": "2026-11-22T21:16:00Z",
+   "sensor": "VIIRS-I",
+   "satellite": "NOAA-20",
+   "frp": 4.76,
+   "fwi": 3.2,
+   "hfi": 146
   },
   {
    "lat": 55.16164,
@@ -132,6 +132,36 @@
    "frp": 5.41,
    "fwi": 0,
    "hfi": 0
+  },
+  {
+   "lat": 52.9542,
+   "lon": -114.7888,
+   "rep_date": "2026-11-22T22:44:00Z",
+   "sensor": "MODIS",
+   "satellite": "Aqua",
+   "frp": 15.58,
+   "fwi": 0,
+   "hfi": 0
+  },
+  {
+   "lat": 55.64936,
+   "lon": -116.39495,
+   "rep_date": "2026-11-22T22:46:00Z",
+   "sensor": "MODIS",
+   "satellite": "Aqua",
+   "frp": 13.42,
+   "fwi": 3.6106656,
+   "hfi": 646
+  },
+  {
+   "lat": 55.65163,
+   "lon": -116.37986,
+   "rep_date": "2026-11-22T22:46:00Z",
+   "sensor": "MODIS",
+   "satellite": "Aqua",
+   "frp": 10.6,
+   "fwi": 3.6106656,
+   "hfi": 1425
   }
  ]
 }
